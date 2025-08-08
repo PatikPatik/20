@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: cloud-mining-bot
-    env: python
-    plan: free
-    buildCommand: ""
-    startCommand: python bot.py
